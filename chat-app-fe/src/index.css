@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  /* Customize the scrollbar width */
+  width: 10px;
+  
+}
+
+::-webkit-scrollbar-track {
+  /* Customize the scrollbar track */
+  width: 10px;
+  
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+}
+
+input{
+    color:black;
+} 
